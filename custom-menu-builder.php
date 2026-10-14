@@ -2,7 +2,7 @@
     /**
      * Plugin Name: Custom Menu Builder
      * Description: Builds a WordPress navigation menu from WooCommerce product categories, preserving the category hierarchy.
-     * Version: 1.0.1
+     * Version: 1.0.0
      * Author: Alex Káčerík
      */
 
